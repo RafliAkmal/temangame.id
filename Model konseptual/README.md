@@ -8,7 +8,7 @@
 Model konseptual adalah persepsi seseorang tentang produk atau layanan. Model konseptual dapat berubah atau diperkuat dari waktu ke waktu dan ditentukan oleh kontak yang dimiliki seseorang dengan produk. Ulasan dan komentar dari orang lain juga dapat mempengaruhi model konseptual.
 
 ## Conceptual Models Diagram from Norman, D. A. (1988).
-![Home Page]()
+![Home Page](https://github.com/RafliAkmal/temangame.id/blob/main/Model%20konseptual/norman_models.jpg)
 
 ## Mental Model
 
